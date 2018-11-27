@@ -8,4 +8,4 @@ CARSI运维设计Document
 >> 基本管理<br>
 >> 我的SP管理
 
-* [数据库设计](https://github.com/cyr1906/CARSI/master/DB_description.md)
+* [数据库设计](https://github.com/cyr1906/CARSI/blob/master/DB_description.md)
