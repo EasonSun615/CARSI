@@ -25,8 +25,8 @@ carsi
 >> * sp_name
 >> * sp_description
 >> * sp_url
->> * sp_step_file
->> * sp_metadata_file
+>> * [sp_step_file](#sp_info---step_file)
+>> * [sp_metadata_file](#sp_info---sp_metadata_file)
 >> * sp_idp_contract
 
 
