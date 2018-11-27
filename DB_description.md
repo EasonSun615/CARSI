@@ -28,3 +28,15 @@ carsi
 >> * sp_step_file
 >> * sp_metadata_file
 >> * sp_idp_contract
+
+
+## Details
+
+### carsi - logo
+存***file*** ，路径是 backend/web/member_file/%dns%/%dns%_%logo%.jpg
+
+### sp_info - step_file
+存***file*** ，路径是 backend/web/member_file/%dns%/%dns%_step\[.pdf/.txt\]
+
+### sp_info - sp_metadata_file
+存***file*** ，路径是 backend/web/member_file/%dns%/%dns%_metadata\[.xml/.txt\]
